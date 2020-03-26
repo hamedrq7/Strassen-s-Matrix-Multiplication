@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hamed/OneDrive/Desktop/Cpp-p/Matrix/MatrixMultiplication/main.cpp
+iostream
+-
+vector
+-
+matrix.h
+C:/Users/hamed/OneDrive/Desktop/Cpp-p/Matrix/MatrixMultiplication/matrix.h
+
+C:/Users/hamed/OneDrive/Desktop/Cpp-p/Matrix/MatrixMultiplication/matrix.h
+vector
+-
+
